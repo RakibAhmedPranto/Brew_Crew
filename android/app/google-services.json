@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "128497334748",
+    "firebase_url": "https://bruecrue-1ab19.firebaseio.com",
+    "project_id": "bruecrue-1ab19",
+    "storage_bucket": "bruecrue-1ab19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128497334748:android:c466b5de70c54cddf87719",
+        "android_client_info": {
+          "package_name": "com.example.bruecrue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128497334748-3uv4i78hr2hguf2i1e5qdtdutrabnncl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEgA33-brtYm2ci_wV12YfHvLmSoEh6EM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128497334748-3uv4i78hr2hguf2i1e5qdtdutrabnncl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
